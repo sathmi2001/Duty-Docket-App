@@ -14,8 +14,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="30dp"
-        android:text="To Do List...😎"
-        android:layout_marginStart="70dp"
+        android:text="Duty Docket"
+        android:layout_marginStart="90dp"
         android:textColor="@color/blue"
         android:textSize="40dp"
         android:textStyle="bold"
@@ -25,7 +25,7 @@
         android:id="@+id/noterecycleview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="80dp"
         android:padding="16dp"
         />
 
@@ -35,12 +35,11 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="180dp"
+        android:layout_marginStart="310dp"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="40dp"
-        android:backgroundTint="@color/blue"
         android:src="@drawable/add"
-        android:tint="@color/white">
+        android:backgroundTint="#FFDC00">
 
     </com.google.android.material.floatingactionbutton.FloatingActionButton>
 
